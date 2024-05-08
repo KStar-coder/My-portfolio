@@ -1,4 +1,6 @@
-# React + Vite
+# Portfolio
+
+## My personal 3d portfolio website showcasing my software developer journey
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
