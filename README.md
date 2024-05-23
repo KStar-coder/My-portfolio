@@ -1,6 +1,6 @@
 # Portfolio
 
-## My personal 3d portfolio website showcasing my software developer journey
+## My personal 3d portfolio website showcasing my software developer journey. It is made using ReactJS, ThreeJS, React-three fiber and react-three drei.
 ### Will keep updating the website accordingly.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
