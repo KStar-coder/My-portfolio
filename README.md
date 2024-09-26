@@ -30,7 +30,6 @@ Start the server
 
 
 
-
 ## Tech Stack
 
 React, Javascript, TailwindCSS
