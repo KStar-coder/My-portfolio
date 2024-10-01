@@ -28,8 +28,6 @@ Start the server
   npm run dev
 ```
 
-
-
 ## Tech Stack
 
 React, Javascript, TailwindCSS
