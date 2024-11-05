@@ -9,6 +9,7 @@ Clone the project
 
   https://github.com/KStar-coder/My-portfolio.git
 ```
+
 Go to the project directory
 
 ```bash
