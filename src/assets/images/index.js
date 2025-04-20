@@ -6,6 +6,8 @@ import tesla from './tesla.png'
 import logo from './logo.svg'
 import highradius from './highradius.png'
 import desiqna from './desiqna.png'
+import itjobxs from './itjobxs.png'
+import arrise from './arrise.png'
 export {
     hero,
     meta,
@@ -14,5 +16,7 @@ export {
     tesla,
     logo,
     highradius,
-    desiqna
+    desiqna,
+    itjobxs,
+    arrise
 }
