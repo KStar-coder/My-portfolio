@@ -1,4 +1,4 @@
-import { highradius, starbucks, tesla } from "../assets/images";
+import { highradius, arrise, itjobxs, starbucks, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -142,6 +142,45 @@ export const skills = [
 ];
 
 export const experiences = [
+
+    {
+        title: "Junior Game Developer",
+        company_name: "Arrise Powering Pragmatic Play",
+        icon: arrise,
+        iconBg: "#accbe1",
+        date: "February 2025 - Present",
+        points: [
+            "Developing and maintaining prototypes of Web based betting and slot games using Unity and C#.",
+            "Partnering with cross-functional teams—including designers, product managers, and engineers—to deliver high-quality, user-centric products through effective collaboration and shared ownership.",
+        ],
+    },
+
+    {
+        title: "Trainee Game Developer",
+        company_name: "Arrise Powering Pragmatic Play",
+        icon: arrise,
+        iconBg: "#accbe1",
+        date: "July 2024 - January 2025",
+        points: [
+            "Learnt to develop web based betting and slot games.",
+            "Achieved hands on experience in game development. Learnt to work with game engines like Unity using C#",
+            "Learnt to deploy unity games on the web using javascript and pixi js library.",
+        ],
+    },
+
+    {
+        title: "Software Developer Intern",
+        company_name: "ITJOBXS",
+        icon: itjobxs,
+        iconBg: "#accbe1",
+        date: "January 2025 - April 2023",
+        points: [
+            "Worked on the Design and Development part of a fully responsive web page for a particular section of itjobxs.com.",
+            "Worked on User Verification/Authentication + Engineering challenges of detecting and removing the fake bots and posts.",
+            "Integrated Recaptcha with the website - Google Layer of Protection for websites.",
+        ],
+    },
+
     {
         title: "Software Developer Intern",
         company_name: "Highradius Corporation",
@@ -168,32 +207,7 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
-    // {
-    //     title: "Web Developer",
-    //     company_name: "Shopify",
-    //     icon: shopify,
-    //     iconBg: "#b7e4c7",
-    //     date: "Jan 2022 - Jan 2023",
-    //     points: [
-    //         "Developing and maintaining web applications using React.js and other related technologies.",
-    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //         "Implementing responsive design and ensuring cross-browser compatibility.",
-    //         "Participating in code reviews and providing constructive feedback to other developers.",
-    //     ],
-    // },
-    // {
-    //     title: "Full stack Developer",
-    //     company_name: "Meta",
-    //     icon: meta,
-    //     iconBg: "#a2d2ff",
-    //     date: "Jan 2023 - Present",
-    //     points: [
-    //         "Developing and maintaining web applications using React.js and other related technologies.",
-    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //         "Implementing responsive design and ensuring cross-browser compatibility.",
-    //         "Participating in code reviews and providing constructive feedback to other developers.",
-    //     ],
-    // },
+
 ];
 
 export const socialLinks = [
